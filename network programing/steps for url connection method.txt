@@ -1,0 +1,7 @@
+1. steps for open connections of url
+2. import java package
+3. create url class
+4. implement openconnection method
+5 show the connection object
+6. Read and write
+7. close the connection

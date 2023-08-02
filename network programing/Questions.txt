@@ -1,0 +1,2 @@
+Questions
+1. Designed and explain how does socket API worke in client server model?
